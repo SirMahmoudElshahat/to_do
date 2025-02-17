@@ -1,16 +1,47 @@
-# to_do
+# To-Do List Mobile Application
 
-A new Flutter project.
+## Technologies Used
+- Flutter
+- Dart
+- GetX (State Management)
+- SQLite (Local Database)
+- RxDart (Reactive Programming)
 
-## Getting Started
+## Features
+- **Task Management**: Create, update, and delete tasks with ease.
+- **Local Storage**: Store tasks locally using SQLite for offline access.
+- **Date Picker**: Schedule tasks using an intuitive date picker timeline.
+- **Animations**: Smooth and engaging animations.
+- **Customizable UI**: Beautiful and responsive UI with Google Fonts and SVG support.
+- **Notifications**: Set reminders and receive notifications using `flutter_local_notifications`.
+- **Multi-Timezone Support**: Manage tasks across different time zones with the `timezone` package.
+- **Custom App Icons**: Generate custom launcher icons for Android and iOS.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
